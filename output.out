@@ -1,0 +1,50 @@
+c=16  P(CS)=0.759  E[S]=3.046
+c=56  P(CS)=0.899  E[S]=3.606
+c=124  P(CS)=0.936  E[S]=3.772
+c=200  P(CS)=0.954  E[S]=3.838
+j=1  P(CSGupta)=0.746  E[S_Gupta]=2.993
+j=2  P(CSGupta)=0.885  E[S_Gupta]=3.585
+j=3  P(CSGupta)=0.941  E[S_Gupta]=3.779
+j=4  P(CSGupta)=0.983  E[S_Gupta]=3.957
+0.020447550.0074602020.9007270.07136523
+
+c=16  P(CS)=0.776  E[S]=3.114
+c=56  P(CS)=0.9  E[S]=3.629
+c=124  P(CS)=0.943  E[S]=3.791
+c=200  P(CS)=0.965  E[S]=3.868
+j=1  P(CSGupta)=0.75  E[S_Gupta]=3.04
+j=2  P(CSGupta)=0.902  E[S_Gupta]=3.617
+j=3  P(CSGupta)=0.951  E[S_Gupta]=3.816
+j=4  P(CSGupta)=0.991  E[S_Gupta]=3.962
+0.49784450.40306130.012318680.08677551
+
+c=16  P(CS)=0.774  E[S]=3.05
+c=56  P(CS)=0.909  E[S]=3.612
+c=124  P(CS)=0.944  E[S]=3.784
+c=200  P(CS)=0.962  E[S]=3.855
+j=1  P(CSGupta)=0.768  E[S_Gupta]=3.013
+j=2  P(CSGupta)=0.906  E[S_Gupta]=3.613
+j=3  P(CSGupta)=0.95  E[S_Gupta]=3.793
+j=4  P(CSGupta)=0.991  E[S_Gupta]=3.96
+0.2670520.19159960.43909890.1022495
+
+c=16  P(CS)=0.771  E[S]=3.072
+c=56  P(CS)=0.906  E[S]=3.616
+c=124  P(CS)=0.947  E[S]=3.774
+c=200  P(CS)=0.962  E[S]=3.836
+j=1  P(CSGupta)=0.754  E[S_Gupta]=3.006
+j=2  P(CSGupta)=0.907  E[S_Gupta]=3.616
+j=3  P(CSGupta)=0.95  E[S_Gupta]=3.795
+j=4  P(CSGupta)=0.987  E[S_Gupta]=3.966
+0.26197280.53246090.013144270.192422
+
+c=16  P(CS)=0.775  E[S]=3.047
+c=56  P(CS)=0.923  E[S]=3.612
+c=124  P(CS)=0.955  E[S]=3.78
+c=200  P(CS)=0.969  E[S]=3.853
+j=1  P(CSGupta)=0.769  E[S_Gupta]=2.995
+j=2  P(CSGupta)=0.915  E[S_Gupta]=3.603
+j=3  P(CSGupta)=0.956  E[S_Gupta]=3.794
+j=4  P(CSGupta)=0.989  E[S_Gupta]=3.956
+0.22882280.58753240.12126950.0623753
+
